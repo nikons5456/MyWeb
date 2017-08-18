@@ -4,6 +4,10 @@ namespace MyWeb.Model.User
 {
     public class User
     {
+        public User()
+        {
+            IsValidated = false;
+        }
         private const int UserNameMaxlength = 20;
 
         private const int PasswordMaxLength = 16;

@@ -58,6 +58,7 @@
     <Compile Include="MyWebDb.cs" />
     <Compile Include="Passage\Passage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User\Dto\RegistUserDto.cs" />
     <Compile Include="User\User.cs" />
   </ItemGroup>
   <ItemGroup>
